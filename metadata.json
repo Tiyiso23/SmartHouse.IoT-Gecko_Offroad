@@ -1,0 +1,6 @@
+{
+  "name": "Gecko Offroad Smart House – IoT Caravan Platform",
+  "description": "Centralised IoT smart caravan solution for monitoring, automation, security, energy, and rental operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
